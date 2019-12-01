@@ -5,8 +5,8 @@
 
 * The framework of the whole training model and the training results are as follows:
 
-  ![](model.png)
+  <div align=center>![](model.png)
 
-  ![](result.png)
+  <div align=center>![](result.png)
 
   
