@@ -5,6 +5,9 @@
 
 * The framework of the whole training model and the training results are as follows:
 
+<h1 align="center">
+  <img src="model.png" />
+</h1>
   <div align=center>![](model.png)
 
   <div align=center>![](result.png)
