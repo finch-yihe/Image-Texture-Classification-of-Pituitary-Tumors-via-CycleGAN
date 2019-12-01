@@ -8,8 +8,9 @@
 <h1 align="center">
   <img src="model.png" />
 </h1>
-  <div align=center>![](model.png)
 
-  <div align=center>![](result.png)
+<h1 align="center">
+  <img src="result.png" />
+</h1>
 
   
